@@ -78,3 +78,16 @@ total 1
 ```
 
 ### Sample outputs of s3-bucket
+
+<center><img alt="bucket" src="firefox_YjbcmbeK10.png"> </img></center>
+
+## Conclusion
+
+Succesfully mounted the s3-bucket on amazon linux. Try it yourself
+
+#### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:jomyambattil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jomygeorge11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.instagram.com/therealjomy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br />
