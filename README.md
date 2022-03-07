@@ -1,1 +1,1 @@
-# Mount-S3-Bucket-on-CentOS-RHEL-using-S3FS
+# Mount-S3-Bucket-on-amazon-linux-using-S3FS
