@@ -50,7 +50,6 @@ chmod 755 ~/.passwd-s3fs
 ### Step-7: Mount S3 Bucket
 ```
 mkdir /tmp/cache /s3mnt
-chmod 777 /tmp/cache /s3mnt
 s3fs -o use_cache=/tmp/cache <s3bucketname> /s3mnt
 ```
 ### Step-8: Add the path to the server fstab otherwise it will broke on reboot. Please add the below
